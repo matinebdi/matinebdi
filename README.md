@@ -1,27 +1,32 @@
-### 👋 Hi, I’m @matinebdi
+ Hi, I’m @matinebdi
+     Who am I?
+I’m a data scientist in training, currently pursuing a Master of Science at ESILV.
+I’m passionate about transforming complex data into actionable insights and building intelligent, interactive dashboards.
+I work mainly with Python, SQL, and Power BI to uncover patterns and drive data-driven decisions.
 
-- 💡 **Who am I?**  
-  I’m an aspiring data analyst with a passion for turning raw data into meaningful insights and building interactive dashboards.  
-  I enjoy using tools like Python, SQL, and Power BI to uncover patterns and tell compelling stories through data.  
+   What I’m working on?
+I’m currently deepening my skills in machine learning, advanced Python programming, and Streamlit for deploying data science applications.
 
-- 🎯 **What I’m working on?**  
-  Currently, I’m honing my skills in advanced Python, Streamlit, and Seaborn for data visualization, while also diving deeper into SQL for efficient database querying.
+   What I’m learning right now:
 
-- 🌱 **What I’m learning?**  
-  - Data visualization techniques to create impactful dashboards.  
-  - Streamlit to make interactive web apps for data analysis.  
-  - Exploring machine learning concepts for future projects.
+Machine learning and deep learning techniques for predictive modeling.
 
-- 🤝 **What I’m looking for?**  
-  - Internship opportunities in **data analysis** starting March 2025.  
-  - Collaborative projects that involve Python, SQL, or Power BI.  
+Generative AI applications and building intelligent agents.
 
-- 📫 **How to reach me?**  
-  Feel free to connect with me here on GitHub or via email. I’m open to discussions about data projects, internships, and collaborative opportunities.
+Retrieval-Augmented Generation (RAG) for enhancing AI systems with external knowledge.
 
-- ⚡ **Fun fact:**  
-  When I’m not analyzing data, you’ll find me solving coding challenges or brainstorming creative ways to make data visually appealing.  
+Advanced data visualization with Seaborn and Matplotlib.
 
----
+Interactive app development with Streamlit to deploy data-driven solutions.
 
-🌟 Let’s connect and make data-driven decisions together!
+   What I’m looking for:
+
+Internship or apprenticeship opportunities in Data Science, Data Engineering, or Artificial Intelligence, starting oct 2025.
+
+Collaboration on data-driven projects involving Python, SQL, machine learning, or visualization tools.
+
+📫 How to reach me:
+Feel free to connect with me here on GitHub or via email. I’m open to discussing data science projects, internships, and new collaboration opportunities.
+
+⚡ Fun fact:
+When I’m not analyzing datasets or building models, you’ll find me solving coding challenges or designing creative dashboards!
