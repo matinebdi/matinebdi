@@ -1,32 +1,82 @@
- Hi, I’m @matinebdi
-     Who am I?
-I’m a data scientist in training, currently pursuing a Master of Science at ESILV.
-I’m passionate about transforming complex data into actionable insights and building intelligent, interactive dashboards.
-I work mainly with Python, SQL, and Power BI to uncover patterns and drive data-driven decisions.
+# Hi, I’m @matinebdi
 
-   What I’m working on?
-I’m currently deepening my skills in machine learning, advanced Python programming, and Streamlit for deploying data science applications.
+## Who am I?
 
-   What I’m learning right now:
+I’m a Master’s student at ESILV and an **AI Engineer & Software Engineer apprentice at Dassault Systèmes (ENOVIA)**, where I develop AI-driven solutions for industrial Product Lifecycle Management (PLM) and product portfolio optimization systems.
 
-Machine learning and deep learning techniques for predictive modeling.
+I design and build **agentic AI systems** and scalable intelligent architectures for real-world enterprise environments. My work focuses on structured reasoning systems, multi-agent orchestration, and production-grade AI engineering.
 
-Generative AI applications and building intelligent agents.
+I specialize in building systems where LLMs don’t just generate text — they reason, call tools, communicate with other agents, and operate within controlled, reliable, and production-ready architectures.
 
-Retrieval-Augmented Generation (RAG) for enhancing AI systems with external knowledge.
 
-Advanced data visualization with Seaborn and Matplotlib.
+---
 
-Interactive app development with Streamlit to deploy data-driven solutions.
+## What I work on
 
-   What I’m looking for:
+- Multi-agent orchestration systems  
+- MCP (Model Context Protocol) tool ecosystems  
+- A2A (Agent-to-Agent) communication architectures  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Structured tool calling & controlled LLM workflows  
+- AI backend systems for enterprise environments  
 
-Internship or apprenticeship opportunities in Data Science, Data Engineering, or Artificial Intelligence, starting oct 2025.
+---
 
-Collaboration on data-driven projects involving Python, SQL, machine learning, or visualization tools.
+## Tech Stack
 
-📫 How to reach me:
-Feel free to connect with me here on GitHub or via email. I’m open to discussing data science projects, internships, and new collaboration opportunities.
+### AI & Agent Frameworks
+- LangChain  
+- LangGraph  
+- MCP-based architectures  
+- A2A communication systems  
+- CrewAI  
+- n8n  
 
-⚡ Fun fact:
-When I’m not analyzing datasets or building models, you’ll find me solving coding challenges or designing creative dashboards!
+### Backend & Engineering
+- Python  
+- FastAPI  
+- Node.js  
+- REST APIs  
+- SQL  
+- Vector databases  
+- Docker  
+
+### Infrastructure & Deployment
+- Kubernetes  
+- NGINX  
+- Containerized AI services  
+- Scalable microservices architectures  
+- CI/CD pipelines  
+
+### Data & Machine Learning
+- Machine Learning (scikit-learn)  
+- SQL  
+- Data modeling  
+- RAG pipelines  
+- Embeddings & similarity search  
+
+### Architecture Focus
+- Modular agent design  
+- Memory & state management  
+- Tool abstraction layers  
+- System scalability & performance optimization  
+
+---
+
+## Currently Deepening
+
+- Advanced agent orchestration patterns  
+- Enterprise-grade AI system design  
+- Distributed agent communication  
+- Scalable AI infrastructure  
+
+---
+
+## Open To
+
+Opportunities and collaborations in:
+
+- AI Engineering  
+- Agentic AI systems  
+- Intelligent software architecture  
+- Advanced multi-agent environments  
